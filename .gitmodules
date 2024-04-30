@@ -1,0 +1,3 @@
+[submodule "ldbc_snb_interactive_v1_impls_chimera"]
+	path = ldbc_snb_interactive_v1_impls_chimera
+	url = git@github.com:Geonho-Lee/ldbc_snb_interactive_v1_impls_chimera.git
